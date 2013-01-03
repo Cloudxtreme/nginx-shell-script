@@ -1,0 +1,1 @@
+This is free to use and free to share type of license. So, please feel free to do what you wish, including ignore !!!
