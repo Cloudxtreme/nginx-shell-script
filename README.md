@@ -4,4 +4,4 @@ While compiling Nginx in some systems the shell doesn't recognize nginx as a pro
 
 ## Installation
 
-Just copy the file [Nginx](/nginx-shell-script/init.d/nginx) to the /etc/init.d/ folder of your system.
+Just copy the file [Nginx](https://github.com/rajibmp/nginx-shell-script/init.d/nginx) to the /etc/init.d/ folder of your system.
